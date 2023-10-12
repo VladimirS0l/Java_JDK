@@ -11,7 +11,7 @@ public class UserRepositoryImpl implements UserRepository{
     }
 
     @Override
-    public User findById(Long aLong) {
+    public User findById(Long id) {
         return null;
     }
 
@@ -26,7 +26,7 @@ public class UserRepositoryImpl implements UserRepository{
     }
 
     @Override
-    public void deleteById(Long aLong) {
+    public void deleteById(Long id) {
 
     }
 }
