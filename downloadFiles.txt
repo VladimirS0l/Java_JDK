@@ -1,0 +1,4 @@
+https://ya.ru/download/1 file1
+https://ya.ru/download/2 file2
+https://ya.ru/download/3 file3
+https://ya.ru/download/4 file4
